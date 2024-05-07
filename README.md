@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viveksoamvanshi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java language
+- 🌱 I’m currently learning c++ language
 - 📫 How to reach me viveksoam2001@gmail.com
 
 <!---
